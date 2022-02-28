@@ -1,2 +1,2 @@
-# security-CLI-tool
-Only contains the main and testing files to showcase my code
+# Python-code-showcase
+The aim of this repo is to show some examples of some scripts I created in previous roles. For security purposes, some files are not included.
