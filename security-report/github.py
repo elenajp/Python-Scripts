@@ -10,8 +10,6 @@ import requests
 from prometheus_client import CollectorRegistry, Gauge, push_to_gateway
 from tabulate import tabulate
 
-print("plop")
-
 
 API_URL = "https://api.github.com"
 
